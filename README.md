@@ -8,4 +8,4 @@
 
 ## Work-Readiness-Portfolio
 This digital portfolio documents my journey through the Work Readiness Training program, showcasing the skills, knowledge, and professional competencies I have developed.  Throughout this portfolio, you will find evidence of my learning in the form of artifacts, assignments, and projects, accompanied by reflective analyses using the STAR technique.
- <a href="index.html" target="_blank">📄 Portfolio </a> 
+ <a href="https://drive.google.com/file/d/1VXzmjyCS5KkbdQXGcH2aITgbD2djfXua/view?usp=drive_link" target="_blank">📄 Portfolio </a> 
